@@ -21,7 +21,8 @@ depends=(breeze-git
     qt5-script
     wrapland-git
     xcb-util-cursor
-    wlroots-git)
+    wlroots-git
+    python)
 makedepends=(extra-cmake-modules-git
     git
     kdoctools-git
